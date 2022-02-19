@@ -42,7 +42,7 @@ Please submit a pull request to extend this list! But keep in mind that, althoug
 
 - **I know for sure that `<PUT YOUR APP>` is a privacy-conscious app, even if it must declare that it collects data due to the absurd rules imposed by Apple.**
 
-This is going to lead to endless discussions, and we must have a clear way to draw a line. The rule I have chosen is simple and fast. There are undoubtedly lots of good privacy-respecting apps that do not appear in this list, which does not mean to be exhaustive by any means (rather, the opposite—see previous question). Feel free to make your own list! I'll be happy to link to it.
+This is going to lead to endless discussions, and we must have a clear way to draw a line. The rule I have chosen is simple and fast. There are undoubtedly lots of good privacy-respecting apps that do not appear in this list, which does not aim to be exhaustive by any means (rather, the opposite—see previous question). Feel free to make your own list! I'll be happy to link to it.
 
 - **`<PUT YOUR APP>` must collect data linked to an identity by design (say, a banking app), but it respects your privacy anyway! Why won't you list it?**
 
