@@ -63,7 +63,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 
 ### Developer Tools
 
-- [**Blink Shell: Mosh & SSH Client:**](https://apps.apple.com/it/app/blink-shell-code/id1594898306) Best SSH, Mosh & UNIX…
+- [**Blink Shell: Mosh & SSH Client:**](https://apps.apple.com/it/app/blink-shell-code/id1594898306)
   - App privacy: Data Not Collected
   - Last version checked: 14.0.7
   - [Source code](https://github.com/blinksh/blink)
@@ -158,6 +158,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 - [**ProtonMail - Encrypted Email:**](https://apps.apple.com/it/app/protonmail-encrypted-email/id979659905) Fast, private & secure
   - App privacy: Diagnostics (crash data)
   - Last version checked: 1.15.11
+  - [Source code](https://github.com/ProtonMail/ios-mail)
 
 - [**Strongbox - KeePass & PwSafe:**](https://apps.apple.com/it/app/strongbox-keepass-pwsafe/id897283731) The Premium KeePass manager
   - App privacy: Data Not Collected
@@ -190,7 +191,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 1.8.3
   - [Source code](https://github.com/holzschu/a-shell)
 
-- [**File Browser - Document Manager**](https://apps.apple.com/it/app/filebrowser-document-manager/id364738545) Network access & med…
+- [**File Browser - Document Manager**](https://apps.apple.com/it/app/filebrowser-document-manager/id364738545)
   - App privacy: Data Not Collected
   - Last version checked: 20.33
 
