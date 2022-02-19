@@ -1,5 +1,7 @@
 # Awesome List of “Data Not Collected” Apps for iOS/iPadOS
 
+Go to [the awesome list](#the-awesome-list)
+
 ## FAQ
 
 - **Why does this list exist?**
@@ -51,13 +53,15 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 - No, no one is (most likely) using all these apps.
 
 
-## Board
+## The Awesome List
+
+### Board
 
 - [**Mahjong!!**](https://apps.apple.com/it/app/mahjong/id347878114) Classic oriental puzzle
   - App privacy: Data Not Collected
   - Last version checked: 7.3
 
-## Developer Tools
+### Developer Tools
 
 - [**Blink Shell: Mosh & SSH Client:**](https://apps.apple.com/it/app/blink-shell-code/id1594898306) Best SSH, Mosh & UNIX…
   - App privacy: Data Not Collected
@@ -70,14 +74,14 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - [Source code](https://github.com/ish-app/ish)
 
 
-## Education
+### Education
 
 - [**Unwrap:**](https://apps.apple.com/it/app/unwrap/id1440611372) Learn coding with Swift
   - App privacy: Data Not Collected
   - Last version checked: 1.5
 
 
-## Health & Fitness
+### Health & Fitness
 
 - [**Ananda - PREMIUM:**](https://apps.apple.com/it/app/ananda-premium/id740204574) Meditate, Focus & Relax
   - App privacy: Data Not Collected
@@ -88,14 +92,14 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 5.1.3
 
 
-## Navigation
+### Navigation
 
 - [**Magic Earth Navigation & Maps:**](https://apps.apple.com/it/app/magic-earth-navigation-maps/id1007331679) Offline maps, traffic
   - App privacy: Data Not Collected
   - Last version checked: 7.6.7
 
 
-## News
+### News
 
 - [**NetNewsWire: RSS Reader:**](https://apps.apple.com/it/app/netnewswire-rss-reader/id1480640210) More news, less junk.
   - App privacy: Identifiers (User ID)
@@ -111,7 +115,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 2.1.4
 
 
-## Photo & Video
+### Photo & Video
 
 - [**VLC for Mobile**](https://apps.apple.com/it/app/vlc-for-mobile/id650377962)
   - App privacy: Diagnostics (crash data, performance data)
@@ -119,7 +123,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - [Source code](https://www.videolan.org/vlc/download-ios.html)
 
 
-## Productivity
+### Productivity
 
 - [**Joplin:**](https://apps.apple.com/it/app/joplin/id1315599797) Note taking and to-do app
   - App privacy: Data Not Collected
@@ -161,7 +165,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - [Source code](https://github.com/strongbox-password-safe/Strongbox)
 
 
-## Puzzle
+### Puzzle
 
 - [**Able Black:**](https://apps.apple.com/it/app/able-black/id1085908608) A story driven puzzle game
   - App privacy: Data Not Collected
@@ -172,14 +176,14 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 2.11
 
 
-## Reference
+### Reference
 
 - [**Mactracker**](https://apps.apple.com/it/app/mactracker/id311421597)
   - App privacy: Data Not Collected
   - Last version checked: 4.6.1
 
 
-## Utilities
+### Utilities
 
 - [**a-Shell:**](https://apps.apple.com/it/app/a-shell/id1473805438) Local interactive terminal
   - App privacy: Data Not Collected
