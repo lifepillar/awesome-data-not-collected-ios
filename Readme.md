@@ -1,10 +1,10 @@
-# Awesome List of iOS “Data Not Collected” Apps
+# Awesome List of “Data Not Collected” Apps for iOS/iPadOS
 
 ## FAQ
 
 - **Why does this list exist?**
 
-Because we couldn't find an “awesome data-not-collecting iOS apps” list. And it is not possible to search the App Store based on privacy criteria. And because most of the apps in the world should fall in this category—but, alas, they are only a scant minority, so this list will never be too hard to maintain (although we wish it eventually will, especially because of apps for young people: games and education apps).
+Because I couldn't find a similar list anywhere. And it is not possible to search the App Store based on privacy criteria. And because most of the apps in the world should fall in this category—but, alas, they are only a scant minority, so this list will never be too hard to maintain (although we wish it eventually will, especially because of apps for young people: games and education apps).
 
 - **Apple is collecting your data anyway: isn't this effort a contradiction and a waste of time?**
 
@@ -12,7 +12,7 @@ Answering this would require more words than I wish to spend for a FAQ. It is a 
 
 - **How do you decide whether an app can appear in this list?**
 
-We look at the App Privacy section in the App Store. It is not ideal, but that is our compromise. Apps that do not collect any data are whitelisted by default. Apps that collect data linked to an identity are off-limits. For apps that collect data *not* linked to an identity, they can be accepted in any of the following circumstances:
+I look at the App Privacy section in the App Store. It is not ideal, but that is my compromise. Apps that do not collect any data are whitelisted by default. Apps that collect data linked to an identity are off-limits. For apps that collect data *not* linked to an identity, they can be accepted in any of the following circumstances:
 
 - the data they collect is limited to diagnostics;
 - it is reasonable to assume that the data collection is opt-in (e.g., an RSS reader that collects email and password only if the user signs in to a remote service rather than using a self-hosted server or the local storage);
@@ -20,35 +20,35 @@ We look at the App Privacy section in the App Store. It is not ideal, but that i
 
 - **How the hell are the apps classified? For instance, why are some password managers under Utilities and others under Productivity?**
 
-Apps are classified according to the category they are assigned in the App Store. That is an inconsistent taxonomy, of course, but we think that agreeing with it facilitates finding an app in that thick soup that is the App Store. Also, we do not have to think about where to file each app.
+Apps are classified according to the category they are assigned in the App Store. That is an inconsistent taxonomy, of course, but I think that agreeing with it helps with finding an app in that thick soup that is the App Store. Also, I do not have to think where to file each app.
 
 - **If an app is listed here, does it mean that it does not track you?**
 
-No. We only report what's in the App Privacy section of the App Store, which is a statement by the app's developer. Unless otherwise specified, we have not independently *verified* (say, by monitoring network connections or by static code analysis) that the apps listed below do not collect any data, or that they collect only the data they declare to collect. It's up to you whether to trust the developer and Apple. This list serves only as a reference to make it easier to find apps that are, in theory, the most privacy respecting.
+No. I only report what is in the App Privacy section of the App Store, which is a statement by the app's developer. Unless otherwise specified, I have not independently *verified* (say, by monitoring network connections or by static code analysis) that the apps listed below do not collect any data, or that they collect only the data they declare to collect. It is up to you whether to trust the developer and Apple. This list serves only as a reference to make it easier to find apps that are, in theory, the most privacy respecting.
 
 - **Are the apps listed on this page free?**
 
-In general, no, in no sense of the word. We do not care whether an app is open-source or not, we do not care whether an app is a free or paid download, and we do not care whether it has in-app purchases or it is based on a subscription model. The only requirement for an app to be eligible to be listed is that its developer declares that the app does not collect any data, or collects only a moderate amount of data (e.g., diagnostics), in any case *not* linked to an identity, as explained before.
+In general, no, in no sense of the word. I do not care whether an app is open-source or not, I do not care whether an app is a free or paid download, and I do not care whether it has in-app purchases or it is based on a subscription model. The only requirement for an app to be eligible to be listed is that its developer declares that the app does not collect any data, or collects only a moderate amount of data (e.g., diagnostics), in any case *not* linked to an identity, as explained before.
 
 - **Are the apps listed on this page open-source?**
 
-In general, no. However, if we know that an app is open-source, a link to the source code is provided.
+In general, no. However, if I know that an app is open-source, a link to the source code is provided.
 
-- **Why isn't <PUT YOUR APP> listed here? It doesn't collect any data! And it's awesome!**
+- **Why isn't `<PUT YOUR APP>` listed here? It doesn't collect any data! And it's awesome!**
 
-Please submit a pull request to extend this list!
+Please submit a pull request to extend this list! But keep in mind that, although “Data-Not-Collected” apps are whitelisted by default, that does not mean that *any* such app can make it into this list. If an app looks fishy—say, an obscure “we-do-not-store-your-IP” VPN app—I prefer not to include it, no matter what the privacy section in the App Store says.
 
-- **I know for sure that <PUT YOUR APP> is a privacy-conscious app, even if it must declare that it collects data due to the absurd rules imposed by Apple.**
+- **I know for sure that `<PUT YOUR APP>` is a privacy-conscious app, even if it must declare that it collects data due to the absurd rules imposed by Apple.**
 
-This is going to lead to endless discussions, and we must have a clear way to draw a line. The rule we have chosen is simple and fast. There are undoubtedly lots of good privacy-respecting apps that do not appear in this list, which does not mean to be exhaustive by any means. Feel free to make your own list! I'll be happy to link to it.
+This is going to lead to endless discussions, and we must have a clear way to draw a line. The rule I have chosen is simple and fast. There are undoubtedly lots of good privacy-respecting apps that do not appear in this list, which does not mean to be exhaustive by any means (rather, the opposite—see previous question). Feel free to make your own list! I'll be happy to link to it.
 
-- **<PUT YOUR APP> must collect data linked to an identity by design (say, a banking app), but it respects your privacy anyway! Why won't you list it?**
+- **`<PUT YOUR APP>` must collect data linked to an identity by design (say, a banking app), but it respects your privacy anyway! Why won't you list it?**
 
-Well, go ahead and use it: we are not saying that you shouldn't. But we do not list it here because it violates our fast and simple rule—that is, that app is off-topic.
+Well, go ahead and use it: I am not saying that you shouldn't. But I do not list it here because it violates my fast and simple rule—that is, that app is off-topic.
 
 - **Do you use all the apps listed here?**
 
-- Regardless whom you are addressing: no, no one is (most likely) using all these apps.
+- No, no one is (most likely) using all these apps.
 
 
 ## Board
