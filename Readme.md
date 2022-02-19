@@ -1,6 +1,6 @@
 # Awesome List of “Data Not Collected” Apps for iOS/iPadOS
 
-Go to [the awesome list](#the-awesome-list)
+Go to [the awesome list](#the-awesome-list).
 
 ## FAQ
 
@@ -190,7 +190,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 1.8.3
   - [Source code](https://github.com/holzschu/a-shell)
 
-- [**File Browser - Document…**](https://apps.apple.com/it/app/filebrowser-document-manager/id364738545) Network access & med…
+- [**File Browser - Document Manager**](https://apps.apple.com/it/app/filebrowser-document-manager/id364738545) Network access & med…
   - App privacy: Data Not Collected
   - Last version checked: 20.33
 
@@ -205,6 +205,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 - [**iVim:**](https://apps.apple.com/it/app/ivim/id1266544660) *The* text editor!
   - App privacy: Data Not Collected
   - Last version checked: 2.47
+  - [Source code](https://github.com/terrychou/iVim)
 
 - [**NIOSH Sound Level Meter**](https://apps.apple.com/it/app/niosh-sound-level-meter/id1096545820)
   - App privacy: Data Not Collected
