@@ -61,6 +61,10 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 7.3
 
+- [**SmallFish Chess for Stockfish**](https://apps.apple.com/it/app/smallfish-chess-for-stockfish/id675049147)
+  - App privacy: Data Not Collected
+  - Last version checked: 16.9.0
+
 ### Developer Tools
 
 - [**Blink Shell: Mosh & SSH Client:**](https://apps.apple.com/it/app/blink-shell-code/id1594898306)
