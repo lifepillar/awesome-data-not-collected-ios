@@ -6,11 +6,11 @@ Go to [the awesome list](#the-awesome-list).
 
 - **Why does this list exist?**
 
-Because I couldn't find a similar list anywhere. And it is not possible to search the App Store based on privacy criteria. And because most of the apps in the world should fall in this category—but, alas, they are only a scant minority, so this list will never be too hard to maintain (although we wish it eventually will, especially because of apps for young people: games and education apps).
+Because I couldn't find a similar list anywhere. And it is not possible to search the App Store based on privacy criteria. And because most of the apps in the world should fall into the «data not collected» category—but, alas, they are only a scant minority, so this list will never be too hard to maintain (although I wish it eventually will, especially full with games and education apps).
 
 - **Apple is collecting your data anyway: isn't this effort a contradiction and a waste of time?**
 
-Answering this would require more words than I wish to spend for a FAQ. It is a legitimate question, though, for which you are encouraged to find an answer yourself.
+Answering this would require more words than I wish to spend for a FAQ. It is a legitimate question, though, for which you are encouraged to find an answer by yourself.
 
 - **How do you decide whether an app can appear in this list?**
 
@@ -22,7 +22,7 @@ I look at the App Privacy section in the App Store. It is not ideal, but that is
 
 - **How the hell are the apps classified? For instance, why are some password managers under Utilities and others under Productivity?**
 
-Apps are classified according to the category they are assigned in the App Store. That is an inconsistent taxonomy, of course, but I think that agreeing with it helps with finding an app in that thick soup that is the App Store. Also, I do not have to think where to file each app.
+Apps are classified according to the category they are assigned in the App Store. That is an inconsistent taxonomy, of course, but I do not have to think where to file each app.
 
 - **If an app is listed here, does it mean that it does not track you?**
 
