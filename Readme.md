@@ -2,6 +2,8 @@
 
 Go to [the awesome list](#the-awesome-list).
 
+Do you want to contribute? Please [submit a pull request](https://github.com/lifepillar/awesome-data-not-collected-ios/pulls)!
+
 ## FAQ
 
 - **Why does this list exist?**
@@ -38,7 +40,7 @@ In general, no. However, if I know that an app is open-source, a link to the sou
 
 - **Why isn't `<PUT YOUR APP>` listed here? It doesn't collect any data! And it's awesome!**
 
-Please submit a pull request to extend this list! But keep in mind that, although “Data-Not-Collected” apps are whitelisted by default, that does not mean that *any* such app can make it into this list. If an app looks fishy—say, an obscure “we-do-not-store-your-IP” VPN app—I prefer not to include it, no matter what the privacy section in the App Store says.
+Please [submit a pull request](https://github.com/lifepillar/awesome-data-not-collected-ios/pulls) to extend this list! But keep in mind that, although “Data-Not-Collected” apps are whitelisted by default, that does not mean that *any* such app can make it into this list. If an app looks fishy—say, an obscure “we-do-not-store-your-IP” VPN app—I prefer not to include it, no matter what the privacy section in the App Store says.
 
 - **I know for sure that `<PUT YOUR APP>` is a privacy-conscious app, even if it must declare that it collects data due to the absurd rules imposed by Apple.**
 
