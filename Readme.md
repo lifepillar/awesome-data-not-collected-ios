@@ -178,6 +178,10 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 4.0.1
 
+- [Klocki:](https://apps.apple.com/it/app/klocki/id1105390093) Minimal puzzle game
+  - App privacy: Data Not Collected
+  - Last version checked: 1.02
+
 - [**Zip-Zap:**](https://apps.apple.com/it/app/zip-zap/id1146138135) Stuff that moves. Anyhow.
   - App privacy: Data Not Collected
   - Last version checked: 2.11
@@ -188,6 +192,13 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 - [**Mactracker**](https://apps.apple.com/it/app/mactracker/id311421597)
   - App privacy: Data Not Collected
   - Last version checked: 4.6.1
+
+
+### Social Networking
+
+- [FluffyChat:](https://apps.apple.com/it/app/fluffychat/id1551469600) Matrix messenger
+  - App privacy: Diagnostics (Crash Data)
+  - Last version checked: 1.3.1
 
 
 ### Utilities
