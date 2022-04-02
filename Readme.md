@@ -178,7 +178,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 4.0.1
 
-- [Klocki:](https://apps.apple.com/it/app/klocki/id1105390093) Minimal puzzle game
+- [**Klocki:**](https://apps.apple.com/it/app/klocki/id1105390093) Minimal puzzle game
   - App privacy: Data Not Collected
   - Last version checked: 1.02
 
@@ -196,7 +196,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 
 ### Social Networking
 
-- [FluffyChat:](https://apps.apple.com/it/app/fluffychat/id1551469600) Matrix messenger
+- [**FluffyChat:**](https://apps.apple.com/it/app/fluffychat/id1551469600) Matrix messenger
   - App privacy: Diagnostics (Crash Data)
   - Last version checked: 1.3.1
 
