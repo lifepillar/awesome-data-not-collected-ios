@@ -201,6 +201,13 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 1.3.1
 
 
+### Travel
+
+- [**Organic Maps:**](https://organicmaps.app/)  free offline maps app
+  - App privacy: Data Not Collected
+  - Last version checked: 2022.08.23
+  - [Source code](https://github.com/organicmaps/organicmaps)
+
 ### Utilities
 
 - [**a-Shell:**](https://apps.apple.com/it/app/a-shell/id1473805438) Local interactive terminal
