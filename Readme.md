@@ -93,6 +93,10 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 1.3.0
 
+- [**GymBook - Strength Training:**](https://apps.apple.com/it/app/gymbook-strength-training/id650113307)
+  - App privacy: Data Not Collected
+  - Last version checked: 6.1.37
+
 - [**Streaks Workout:**](https://apps.apple.com/it/app/streaks-workout/id1044950341) For all fitness levels
   - App privacy: Diagnostics (crash data)
   - Last version checked: 6.0.4
