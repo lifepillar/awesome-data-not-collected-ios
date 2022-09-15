@@ -93,7 +93,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 1.3.0
 
-- [**GymBook - Strength Training:**](https://apps.apple.com/it/app/gymbook-strength-training/id650113307)
+- [**GymBook - Strength Training:**](https://apps.apple.com/it/app/gymbook-strength-training/id650113307) Workout diary
   - App privacy: Data Not Collected
   - Last version checked: 6.1.37
 
