@@ -8,7 +8,7 @@ Do you want to contribute? Please [submit a pull request](https://github.com/lif
 
 - **Why does this list exist?**
 
-Because I couldn't find a similar list anywhere. And it is not possible to search the App Store based on privacy criteria. And because most of the apps in the world should fall into the «data not collected» category—but, alas, they are only a scant minority, so this list will never be too hard to maintain (although I wish it eventually will, especially full with games and education apps).
+Because I couldn't find a similar list anywhere. And it is not possible to search the App Store based on privacy criteria. And because most of the apps in the world should fall into the «data not collected» category—but, alas, they are likely a scant minority, so this list will never be too hard to maintain (although I wish it eventually will, especially full with games and education apps).
 
 - **Apple is collecting your data anyway: isn't this effort a contradiction and a waste of time?**
 
@@ -16,7 +16,7 @@ Answering this would require more words than I wish to spend for a FAQ. It is a 
 
 - **How do you decide whether an app can appear in this list?**
 
-I look at the App Privacy section in the App Store. It is not ideal, but that is my compromise. Apps that do not collect any data are whitelisted by default. Apps that collect data linked to an identity are off-limits. For apps that collect data *not* linked to an identity, they can be accepted in any of the following circumstances:
+I look at the App Privacy section in the App Store. It is not ideal (see, for instance, [this paper](https://arxiv.org/abs/2206.06274)), but that is my compromise. Apps that do not collect any data are whitelisted by default. Apps that collect data linked to an identity are off-limits. For apps that collect data *not* linked to an identity, they can be accepted in any of the following circumstances:
 
 - the data they collect is limited to diagnostics;
 - it is reasonable to assume that the data collection is opt-in (e.g., an RSS reader that collects email and password only if the user signs in to a remote service rather than using a self-hosted server or the local storage);
