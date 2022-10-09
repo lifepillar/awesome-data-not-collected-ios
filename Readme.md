@@ -59,22 +59,22 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 
 ### Board
 
-- [**Mahjong!!**](https://apps.apple.com/it/app/mahjong/id347878114) Classic oriental puzzle
+- [**Mahjong!!**](https://apps.apple.com/app/mahjong/id347878114) Classic oriental puzzle
   - App privacy: Data Not Collected
   - Last version checked: 7.3
 
-- [**SmallFish Chess for Stockfish**](https://apps.apple.com/it/app/smallfish-chess-for-stockfish/id675049147)
+- [**SmallFish Chess for Stockfish**](https://apps.apple.com/app/smallfish-chess-for-stockfish/id675049147)
   - App privacy: Data Not Collected
   - Last version checked: 16.9.0
 
 ### Developer Tools
 
-- [**Blink Shell: Mosh & SSH Client:**](https://apps.apple.com/it/app/blink-shell-code/id1594898306)
+- [**Blink Shell: Mosh & SSH Client:**](https://apps.apple.com/app/blink-shell-code/id1594898306)
   - App privacy: Data Not Collected
   - Last version checked: 14.0.7
   - [Source code](https://github.com/blinksh/blink)
 
-- [**iSH:**](https://apps.apple.com/it/app/ish-shell/id1436902243) Linux in your pocket
+- [**iSH:**](https://apps.apple.com/app/ish-shell/id1436902243) Linux in your pocket
   - App privacy: Data Not Collected
   - Last version checked: 1.2.3
   - [Source code](https://github.com/ish-app/ish)
@@ -82,52 +82,52 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 
 ### Education
 
-- [**Unwrap:**](https://apps.apple.com/it/app/unwrap/id1440611372) Learn coding with Swift
+- [**Unwrap:**](https://apps.apple.com/app/unwrap/id1440611372) Learn coding with Swift
   - App privacy: Data Not Collected
   - Last version checked: 1.5
 
 
 ### Health & Fitness
 
-- [**Ananda - PREMIUM:**](https://apps.apple.com/it/app/ananda-premium/id740204574) Meditate, Focus & Relax
+- [**Ananda - PREMIUM:**](https://apps.apple.com/app/ananda-premium/id740204574) Meditate, Focus & Relax
   - App privacy: Data Not Collected
   - Last version checked: 1.3.0
 
-- [**GymBook - Strength Training:**](https://apps.apple.com/it/app/gymbook-strength-training/id650113307) Workout diary
+- [**GymBook - Strength Training:**](https://apps.apple.com/app/gymbook-strength-training/id650113307) Workout diary
   - App privacy: Data Not Collected
   - Last version checked: 6.1.37
 
-- [**Streaks Workout:**](https://apps.apple.com/it/app/streaks-workout/id1044950341) For all fitness levels
+- [**Streaks Workout:**](https://apps.apple.com/app/streaks-workout/id1044950341) For all fitness levels
   - App privacy: Diagnostics (crash data)
   - Last version checked: 6.0.4
 
 
 ### Navigation
 
-- [**Magic Earth Navigation & Maps:**](https://apps.apple.com/it/app/magic-earth-navigation-maps/id1007331679) Offline maps, traffic
+- [**Magic Earth Navigation & Maps:**](https://apps.apple.com/app/magic-earth-navigation-maps/id1007331679) Offline maps, traffic
   - App privacy: Data Not Collected
   - Last version checked: 7.6.7
 
 
 ### News
 
-- [**NetNewsWire: RSS Reader:**](https://apps.apple.com/it/app/netnewswire-rss-reader/id1480640210) More news, less junk.
+- [**NetNewsWire: RSS Reader:**](https://apps.apple.com/app/netnewswire-rss-reader/id1480640210) More news, less junk.
   - App privacy: Identifiers (User ID)
   - Last version checked: 6.0.2
   - [Source code](https://github.com/Ranchero-Software/NetNewsWire)
 
-- [**Reeder 5:**](https://apps.apple.com/it/app/reeder-5/id1529445840) News reader
+- [**Reeder 5:**](https://apps.apple.com/app/reeder-5/id1529445840) News reader
   - App privacy: Data Not Collected
   - Last version checked: 5.1
 
-- [**tiny Reader RSS**](https://apps.apple.com/it/app/tiny-reader-rss/id689519762)
+- [**tiny Reader RSS**](https://apps.apple.com/app/tiny-reader-rss/id689519762)
   - App privacy: Data Not Collected
   - Last version checked: 2.1.4
 
 
 ### Photo & Video
 
-- [**VLC for Mobile**](https://apps.apple.com/it/app/vlc-for-mobile/id650377962)
+- [**VLC for Mobile**](https://apps.apple.com/app/vlc-for-mobile/id650377962)
   - App privacy: Diagnostics (crash data, performance data)
   - Last version checked: 3.2.13
   - [Source code](https://www.videolan.org/vlc/download-ios.html)
@@ -135,72 +135,75 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 
 ### Productivity
 
-- [**Joplin:**](https://apps.apple.com/it/app/joplin/id1315599797) Note taking and to-do app
+- [**Joplin:**](https://apps.apple.com/app/joplin/id1315599797) Note taking and to-do app
   - App privacy: Data Not Collected
   - Last version checked: 12.6.2
   - [Source code](https://github.com/laurent22/joplin/)
 
-- [**KeePass Touch:**](https://apps.apple.com/it/app/keepass-touch/id966759076) The password manager
+- [**KeePass Touch:**](https://apps.apple.com/app/keepass-touch/id966759076) The password manager
   - App privacy: Diagnostics (crash data, performance data, other diagnostic data)
   - Last version checked: 1.12.3
 
-- [**KeePassium**](https://apps.apple.com/it/app/keepassium-keepass-passwords/id1435127111)
+- [**KeePassium**](https://apps.apple.com/app/keepassium-keepass-passwords/id1435127111)
   - App privacy: Data Not Collected
   - Last version checked: 1.30
 
-- [**MDNotes:**](https://apps.apple.com/it/app/mdnotes/id1471287219) A minimum markdown notes app
+- [**MDNotes:**](https://apps.apple.com/app/mdnotes/id1471287219) A minimum markdown notes app
   - App privacy: Data Not Collected
   - Last version checked: 3.4
 
-- [**miMind:**](https://apps.apple.com/it/app/mimind/id1385633717) Easy mind mapping
+- [**miMind:**](https://apps.apple.com/app/mimind/id1385633717) Easy mind mapping
   - App privacy: Data Not Collected
   - Last version checked: 3.13
 
-- [**Nextcloud:**](https://apps.apple.com/it/app/nextcloud/id1125420102) a safe home for all your data
+- [**Nextcloud:**](https://apps.apple.com/app/nextcloud/id1125420102) a safe home for all your data
   - App privacy: Data Not Collected
   - Last version checked: 4.2.1
   - [Source code](https://github.com/nextcloud/ios)
 
-- [**Obsidian - Connected Notes**](https://apps.apple.com/it/app/obsidian-connected-notes/id1557175442)
+- [**Obsidian - Connected Notes**](https://apps.apple.com/app/obsidian-connected-notes/id1557175442)
   - App privacy: Data Not Collected
   - Last version checked: 1.0.5
 
-- [**ProtonMail - Encrypted Email:**](https://apps.apple.com/it/app/protonmail-encrypted-email/id979659905) Fast, private & secure
+- [**ProtonMail - Encrypted Email:**](https://apps.apple.com/app/protonmail-encrypted-email/id979659905) Fast, private & secure
   - App privacy: Diagnostics (crash data)
   - Last version checked: 1.15.11
   - [Source code](https://github.com/ProtonMail/ios-mail)
 
-- [**Strongbox - KeePass & PwSafe:**](https://apps.apple.com/it/app/strongbox-keepass-pwsafe/id897283731) The Premium KeePass manager
+- [**Strongbox - KeePass & PwSafe:**](https://apps.apple.com/app/strongbox-keepass-pwsafe/id897283731) The Premium KeePass manager
   - App privacy: Data Not Collected
   - Last version checked: 1.54.7
   - [Source code](https://github.com/strongbox-password-safe/Strongbox)
 
+- [**System Activity Monitors**:](https://apps.apple.com/app/system-activity-monitors/id386118145) Memory, Battery, CPU…
+  - App privacy: Data Not Collected
+  - Last version checked: 3.15
 
 ### Puzzle
 
-- [**Able Black:**](https://apps.apple.com/it/app/able-black/id1085908608) A story driven puzzle game
+- [**Able Black:**](https://apps.apple.com/app/able-black/id1085908608) A story driven puzzle game
   - App privacy: Data Not Collected
   - Last version checked: 4.0.1
 
-- [**Klocki:**](https://apps.apple.com/it/app/klocki/id1105390093) Minimal puzzle game
+- [**Klocki:**](https://apps.apple.com/app/klocki/id1105390093) Minimal puzzle game
   - App privacy: Data Not Collected
   - Last version checked: 1.02
 
-- [**Zip-Zap:**](https://apps.apple.com/it/app/zip-zap/id1146138135) Stuff that moves. Anyhow.
+- [**Zip-Zap:**](https://apps.apple.com/app/zip-zap/id1146138135) Stuff that moves. Anyhow.
   - App privacy: Data Not Collected
   - Last version checked: 2.11
 
 
 ### Reference
 
-- [**Mactracker**](https://apps.apple.com/it/app/mactracker/id311421597)
+- [**Mactracker**](https://apps.apple.com/app/mactracker/id311421597)
   - App privacy: Data Not Collected
   - Last version checked: 4.6.1
 
 
 ### Social Networking
 
-- [**FluffyChat:**](https://apps.apple.com/it/app/fluffychat/id1551469600) Matrix messenger
+- [**FluffyChat:**](https://apps.apple.com/app/fluffychat/id1551469600) Matrix messenger
   - App privacy: Diagnostics (Crash Data)
   - Last version checked: 1.3.1
 
@@ -214,65 +217,65 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 
 ### Utilities
 
-- [**a-Shell:**](https://apps.apple.com/it/app/a-shell/id1473805438) Local interactive terminal
+- [**a-Shell:**](https://apps.apple.com/app/a-shell/id1473805438) Local interactive terminal
   - App privacy: Data Not Collected
   - Last version checked: 1.8.3
   - [Source code](https://github.com/holzschu/a-shell)
 
-- [**File Browser - Document Manager**](https://apps.apple.com/it/app/filebrowser-document-manager/id364738545)
+- [**File Browser - Document Manager**](https://apps.apple.com/app/filebrowser-document-manager/id364738545)
   - App privacy: Data Not Collected
   - Last version checked: 20.33
 
-- [**Hamm Seismograph**](https://apps.apple.com/it/app/hamm-seismograph/id704450894)
+- [**Hamm Seismograph**](https://apps.apple.com/app/hamm-seismograph/id704450894)
   - App privacy: Data Not Collected
   - Last version checked: 2.2
 
-- [**IOSKeePass:**](https://apps.apple.com/it/app/ioskeepass/id1516678863) MiniKeePass fork
+- [**IOSKeePass:**](https://apps.apple.com/app/ioskeepass/id1516678863) MiniKeePass fork
   - App privacy: Data Not Collected
   - Last version checked: 2.3.4
 
-- [**iVim:**](https://apps.apple.com/it/app/ivim/id1266544660) *The* text editor!
+- [**iVim:**](https://apps.apple.com/app/ivim/id1266544660) *The* text editor!
   - App privacy: Data Not Collected
   - Last version checked: 2.47
   - [Source code](https://github.com/terrychou/iVim)
 
-- [**NIOSH Sound Level Meter**](https://apps.apple.com/it/app/niosh-sound-level-meter/id1096545820)
+- [**NIOSH Sound Level Meter**](https://apps.apple.com/app/niosh-sound-level-meter/id1096545820)
   - App privacy: Data Not Collected
   - Last version checked: 1.2.5
 
-- [**Onion Browser:**](https://apps.apple.com/it/app/onion-browser/id519296448) Secure, anonymous web with Tor
+- [**Onion Browser:**](https://apps.apple.com/app/onion-browser/id519296448) Secure, anonymous web with Tor
   - App privacy: Data Not Collected
   - Last version checked: 2.7.7
   - [Source code](https://github.com/onionbrowser/onionbrowser)
 
-- [**OpenVPN Connect:**](https://apps.apple.com/it/app/openvpn-connect/id590379981)
+- [**OpenVPN Connect:**](https://apps.apple.com/app/openvpn-connect/id590379981)
   - App privacy: Data Not Collected
   - Last version checked: 3.2.3
 
-- [**PCalc Lite:**](https://apps.apple.com/it/app/pcalc-lite/id300311831) The Best Calculator
+- [**PCalc Lite:**](https://apps.apple.com/app/pcalc-lite/id300311831) The Best Calculator
   - App privacy: Diagnostics (analytics, app functionality)
   - Last version checked: 3.11.1
 
-- [**Raivo OTP:**](https://apps.apple.com/it/app/raivo-otp/id1459042137) OTP management done right!
+- [**Raivo OTP:**](https://apps.apple.com/app/raivo-otp/id1459042137) OTP management done right!
   - App privacy: Data Not Collected
   - Last version checked: 1.3.2
   - [Source code](https://github.com/raivo-otp/ios-application)
 
-- [**Tofu:**](https://apps.apple.com/it/app/tofu-authenticator/id1082229305) Two-factor authentication
+- [**Tofu:**](https://apps.apple.com/app/tofu-authenticator/id1082229305) Two-factor authentication
   - App privacy: Data Not Collected
   - Last version checked: 1.11
   - [Source code](https://github.com/calleluks/Tofu)
 
-- [**TouchPad:**](https://apps.apple.com/it/app/touchpad/id297623931) Mobile keyboard and trackpad
+- [**TouchPad:**](https://apps.apple.com/app/touchpad/id297623931) Mobile keyboard and trackpad
   - App privacy: Diagnostics (crash data)
   - Last version checked: 6.3.2
 
-- [**Wallabag 2 official:**](https://apps.apple.com/it/app/wallabag-2-official/id1170800946) Wallabag client
+- [**Wallabag 2 official:**](https://apps.apple.com/app/wallabag-2-official/id1170800946) Wallabag client
   - App privacy: Diagnostics
   - Last version checked: 6.0.4
   - [Source code](https://github.com/wallabag/ios-app)
 
-- [**WireGuard:**](https://apps.apple.com/it/app/wireguard/id1441195209) Fast, modern secure VPN
+- [**WireGuard:**](https://apps.apple.com/app/wireguard/id1441195209) Fast, modern secure VPN
   - App privacy: Data Not Collected
   - Last version checked: 1.0.15
   - [Source code](https://www.wireguard.com/repositories/)
