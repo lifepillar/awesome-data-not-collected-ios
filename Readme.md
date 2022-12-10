@@ -207,6 +207,10 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Diagnostics (Crash Data)
   - Last version checked: 1.3.1
 
+- [**Mastodon**](https://apps.apple.com/app/mastodon-for-iphone-and-ipad/id1571998974) Decentralized social network
+  - App privacy: Data Not Collected
+  - Last version checked: 1.4.8
+
 
 ### Travel
 
