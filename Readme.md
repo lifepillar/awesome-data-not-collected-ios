@@ -247,7 +247,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 1.2.5
 
-- [**Official Kodi Remote:**](https://apps.apple.com/app/ivim/id1266544660)
+- [**Official Kodi Remote:**](https://apps.apple.com/app/official-kodi-remote/id520480364)
   - App privacy: Data Not Collected
   - Last version checked: 1.12
 
