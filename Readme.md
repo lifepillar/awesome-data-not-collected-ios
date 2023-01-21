@@ -247,6 +247,10 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 1.2.5
 
+- [**Official Kodi Remote:**](https://apps.apple.com/app/ivim/id1266544660)
+  - App privacy: Data Not Collected
+  - Last version checked: 1.12
+
 - [**Onion Browser:**](https://apps.apple.com/app/onion-browser/id519296448) Secure, anonymous web with Tor
   - App privacy: Data Not Collected
   - Last version checked: 2.7.7
