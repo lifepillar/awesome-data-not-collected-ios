@@ -217,6 +217,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 - [**Battle for Wesnoth**](https://apps.apple.com/app/battle-for-wesnoth/id575852062) Turn-based tactical strategy game with a high fantasy theme
   - App privacy: Data Not Collected
   - Last version checked: 1.14.13
+  - [Source code](https://github.com/wesnoth/wesnoth)
 
 
 ### Travel
