@@ -102,6 +102,13 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 6.0.4
 
 
+### Lifestyle
+
+- [**nymea:app:**](https://apps.apple.com/app/nymea-app/id1488785734) IoT platform that allows to link smart devices and services together
+  - App privacy: Data Not Collected
+  - Last version checked: 1.8.25
+
+
 ### Navigation
 
 - [**Magic Earth Navigation & Maps:**](https://apps.apple.com/app/magic-earth-navigation-maps/id1007331679) Offline maps, traffic
