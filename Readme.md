@@ -172,10 +172,18 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 1.0.5
 
+- [**Paperparrot:**](https://apps.apple.com/app/paperparrot/id1663665267) A native Paperless-ngx client
+  - App privacy: Data Not Collected
+  - Last version checked: 2.4.1
+
 - [**ProtonMail - Encrypted Email:**](https://apps.apple.com/app/protonmail-encrypted-email/id979659905) Fast, private & secure
   - App privacy: Diagnostics (crash data)
   - Last version checked: 1.15.11
   - [Source code](https://github.com/ProtonMail/ios-mail)
+
+- [**Scan4Paperless:**](https://apps.apple.com/app/scan4paperless/id1629964055) Scanning made easy
+  - App privacy: Data Not Collected
+  - Last version checked: 1.3
 
 - [**Strongbox - KeePass & PwSafe:**](https://apps.apple.com/app/strongbox-keepass-pwsafe/id897283731) The Premium KeePass manager
   - App privacy: Data Not Collected
@@ -218,6 +226,10 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 1.4.8
 
+- [**Tootoise**](https://apps.apple.com/app/tootoise/id1465090190) Mastodon client
+  - App privacy: Data Not Collected
+  - Last version checked: 1.18.11
+
 
 ### Strategy
 
@@ -258,6 +270,11 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 2.47
   - [Source code](https://github.com/terrychou/iVim)
 
+- [**LocalSend:**](https://apps.apple.com/app/localsend/id1661733229) Cross-Platform File Sharing
+  - App privacy: Data Not Collected
+  - Last version checked: 1.15.3
+  - [Source code](https://github.com/localsend/localsend)
+
 - [**NIOSH Sound Level Meter**](https://apps.apple.com/app/niosh-sound-level-meter/id1096545820)
   - App privacy: Data Not Collected
   - Last version checked: 1.2.5
@@ -274,6 +291,11 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 - [**OpenVPN Connect:**](https://apps.apple.com/app/openvpn-connect/id590379981)
   - App privacy: Data Not Collected
   - Last version checked: 3.2.3
+
+- [**Orbot:**](https://apps.apple.com/app/orbot/id1609461599) Tor VPN
+  - App privacy: Data Not Collected
+  - Last version checked: 1.7.1
+  - [Source code](https://github.com/guardianproject/orbot-apple)
 
 - [**PCalc Lite:**](https://apps.apple.com/app/pcalc-lite/id300311831) The Best Calculator
   - App privacy: Diagnostics (analytics, app functionality)
