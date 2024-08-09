@@ -134,6 +134,10 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 
 ### Photo & Video
 
+- [**Pixelmator**](https://apps.apple.com/app/pixelmator/id924695435) Design, paint, retouch
+  - App privacy: Diagnostics (crash data, performance data)
+  - Last version checked: 3.1.7
+
 - [**VLC for Mobile**](https://apps.apple.com/app/vlc-for-mobile/id650377962)
   - App privacy: Diagnostics (crash data, performance data)
   - Last version checked: 3.2.13
