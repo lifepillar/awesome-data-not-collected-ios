@@ -310,6 +310,11 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - Last version checked: 1.3.2
   - [Source code](https://github.com/raivo-otp/ios-application)
 
+- [**Seafile Pro:**](https://apps.apple.com/app/seafile-pro/id639202512) File sync and share (client)
+  - App privacy: Diagnostics (Crash Data)
+  - Last version checked: 2.9.26
+  - [Source code](https://github.com/haiwen/seafile-iOS)
+
 - [**Tofu:**](https://apps.apple.com/app/tofu-authenticator/id1082229305) Two-factor authentication
   - App privacy: Data Not Collected
   - Last version checked: 1.11
