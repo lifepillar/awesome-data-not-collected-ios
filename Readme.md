@@ -67,6 +67,20 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Data Not Collected
   - Last version checked: 16.9.0
 
+
+### Books
+
+- [**plappa:**](https://apps.apple.com/app/plappa/id6475201956) Self-hosted Audiobooks
+  - App privacy: Data Not Collected
+  - Last version checked: 1.4.3
+  - [Source code](https://github.com/leoklaus/plappa)
+
+- [**ShelfPlayer:**](https://apps.apple.com/app/shelfplayer/id6475221163) Audiobookshelf player
+  - App privacy: Data Not Collected
+  - Last version checked: 2.4.5
+  - [Source code](https://github.com/rasmuslos/ShelfPlayer)
+
+
 ### Developer Tools
 
 - [**Blink Shell: Mosh & SSH Client:**](https://apps.apple.com/app/blink-shell-code/id1594898306)
@@ -96,6 +110,11 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 - [**GymBook - Strength Training:**](https://apps.apple.com/app/gymbook-strength-training/id650113307) Workout diary
   - App privacy: Data Not Collected
   - Last version checked: 6.1.37
+
+- [**Out-Run:**](https://apps.apple.com/app/out-run/id1477511092) Outdoor Fitness Tracker
+  - App privacy: Data Not Collected
+  - Last version checked: 1.3
+  - [Source code](https://github.com/timfraedrich/OutRun)
 
 - [**Streaks Workout:**](https://apps.apple.com/app/streaks-workout/id1044950341) For all fitness levels
   - App privacy: Diagnostics (crash data)
@@ -179,6 +198,7 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
 - [**Paperparrot:**](https://apps.apple.com/app/paperparrot/id1663665267) A native Paperless-ngx client
   - App privacy: Data Not Collected
   - Last version checked: 2.4.1
+  - [Source code](https://github.com/LeoKlaus/Paperparrot)
 
 - [**ProtonMail - Encrypted Email:**](https://apps.apple.com/app/protonmail-encrypted-email/id979659905) Fast, private & secure
   - App privacy: Diagnostics (crash data)
@@ -226,11 +246,15 @@ Well, go ahead and use it: I am not saying that you shouldn't. But I do not list
   - App privacy: Diagnostics (Crash Data)
   - Last version checked: 1.3.1
 
-- [**Mastodon**](https://apps.apple.com/app/mastodon-for-iphone-and-ipad/id1571998974) Decentralized social network
+- [**Mastodon:**](https://apps.apple.com/app/mastodon-for-iphone-and-ipad/id1571998974) Decentralized social network
   - App privacy: Data Not Collected
   - Last version checked: 1.4.8
 
-- [**Tootoise**](https://apps.apple.com/app/tootoise/id1465090190) Mastodon client
+- [**Mona for Mastodon:**](https://apps.apple.com/app/mona-for-mastodon/id1659154653) Redefine Customizability
+  - App privacy: Data Not Collected
+  - Last version checked: 6.8.4
+
+- [**Tootoise:**](https://apps.apple.com/app/tootoise/id1465090190) Mastodon client
   - App privacy: Data Not Collected
   - Last version checked: 1.18.11
 
